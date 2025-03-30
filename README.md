@@ -1,1 +1,1 @@
-# project-in-C-
+EFREI Project to reinforce our competences in C. The goal was to create a "paint" style program, where we could insert shapes like squares, polygons, points, lines, and circles by giving them the coordinates and the departure point of the shape.
